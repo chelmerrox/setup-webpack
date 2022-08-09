@@ -38,13 +38,13 @@ From the command line, do the following steps below:
 
 ```bash
 # Clone this repository
-$ git clone git@github.com:chelmerrox/webpack.git
+$ git clone git@github.com:chelmerrox/setup-webpack.git
 
 ```
 2. Change directory/Go into the repository with the command below.
 
 ```bash
-$ cd webpack
+$ cd setup-webpack
 
 ```
 
@@ -60,7 +60,7 @@ $ cd webpack
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/chelmerrox/webpack/issues).
+Feel free to check the [issues page](https://github.com/chelmerrox/setup-webpack/issues).
 
 ## Show your support
 
